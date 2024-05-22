@@ -1,56 +1,54 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4B0082&size=35&center=true&vCenter=true&width=1000&lines=Olá,Bem+Vindo+ao+Meu+Perfil;Me+Chamo+João+Pedro+Bebber;Estudante+de+Engenharia+de+Software+:%29)](https://git.io/typing-svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=23497f&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=23497f&size=35&center=true&vCenter=true&width=1000&lines=Olá,Bem+Vindo+ao+Meu+Perfil;Me+Chamo+João+Pedro+Bebber;Estudante+de+Engenharia+de+Software+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luizGervazio&show_icons=true&count_private=true&hide_border=true&title_color=4B0082&icon_color=4B0082&text_color=c9d1d9&bg_color=9370DB" alt="Luiz Felipe's GitHub stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizGervazio&layout=compact&hide_border=true&title_color=4B0082&text_color=4B0082&bg_color=9370DB" alt="Luiz Felipe's Top Languages" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroBebber&show_icons=true&count_private=true&hide_border=true&title_color=23497f&icon_color=23497f&text_color=c9d1d9&bg_color=9370DB" alt="Luiz Felipe's GitHub stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroBebber&layout=compact&hide_border=true&title_color=23497f&text_color=23497f&bg_color=9370DB" alt="João's Top Languages" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luizGervazio&bg_color=4B0082&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luizGervazio&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JoaoPedroBebber&bg_color=23497f&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-  <a href="https://www.instagram.com/joaopedrobebber/?igsh=aDBnbDN6anJnZzRw" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+  <a href="https://www.instagram.com/joaopedrobebber/?igsh=aDBnbDN6anJnZzRw" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%2323497f?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="URL_DO_SEU_LINKEDIN_AQUI" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-### Main skills:
-![Java](https://img.shields.io/badge/-Java-4B0082?style=for-the-badge&logo=java&labelColor=4B0082&textColor=4B0082)&nbsp;
-![C](https://img.shields.io/badge/-C-4B0082?style=for-the-badge&logo=c&labelColor=4B0082&textColor=4B0082)&nbsp;
-![C++](https://img.shields.io/badge/-C++-4B0082?style=for-the-badge&logo=c%2B%2B&labelColor=4B0082&textColor=4B0082)&nbsp;
+### Habilidades principais:
+![Progress 4GL](https://img.shields.io/badge/-Progress%204GL-23497f?style=for-the-badge&labelColor=23497f&logoColor=white)
+![C](https://img.shields.io/badge/-C-23497f?style=for-the-badge&logo=c&labelColor=23497f&textColor=23497f)&nbsp;
 
-### Tools:
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-4B0082?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=4B0082)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-4B0082?style=for-the-badge&logo=visual-studio-code&logoColor=4B0082&labelColor=4B0082)&nbsp;
-![Git](https://img.shields.io/badge/-Git-4B0082?style=for-the-badge&logo=git&labelColor=4B0082)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-4B0082?style=for-the-badge&logo=github&labelColor=4B0082)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-4B0082?style=for-the-badge&logo=windows&labelColor=4B0082)&nbsp;
-![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-4B0082?style=for-the-badge&logo=microsoft-office&labelColor=4B0082)&nbsp;
-![OneDrive](https://img.shields.io/badge/-OneDrive-4B0082?style=for-the-badge&logo=onedrive&labelColor=4B0082)&nbsp;
 
-### Other Knowledge:
-![Figma](https://img.shields.io/badge/-Figma-4B0082?style=for-the-badge&logo=figma&labelColor=4B0082)&nbsp;
-![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-4B0082?style=for-the-badge&logo=microsoft-office&labelColor=4B0082)&nbsp;
-![Progress](https://img.shields.io/badge/-Progress-4B0082?style=for-the-badge&labelColor=4B0082)&nbsp;
-![Astah](https://img.shields.io/badge/-Astah-4B0082?style=for-the-badge&labelColor=4B0082)&nbsp;
-![Project](https://img.shields.io/badge/-Project-4B0082?style=for-the-badge&labelColor=4B0082)&nbsp;
-![Canva](https://img.shields.io/badge/-Canva-4B0082?style=for-the-badge&labelColor=4B0082)&nbsp;
-![Tap](https://img.shields.io/badge/-Tap-4B0082?style=for-the-badge&labelColor=4B0082)&nbsp;
-![MQTT Server](https://img.shields.io/badge/-MQTT%20Server-4B0082?style=for-the-badge&labelColor=4B0082)&nbsp;
+### Ferramentas:
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-23497f?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=23497f)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-23497f?style=for-the-badge&logo=visual-studio-code&logoColor=23497f&labelColor=23497f)&nbsp;
+![Git](https://img.shields.io/badge/-Git-23497f?style=for-the-badge&logo=git&labelColor=23497f)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-23497f?style=for-the-badge&logo=github&labelColor=23497f)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-23497f?style=for-the-badge&logo=windows&labelColor=23497f)&nbsp;
+![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-23497f?style=for-the-badge&logo=microsoft-office&labelColor=23497f)&nbsp;
+![OneDrive](https://img.shields.io/badge/-OneDrive-23497f?style=for-the-badge&logo=onedrive&labelColor=23497f)&nbsp;
 
-### Studying in this moment:
-![Node.JS](https://img.shields.io/badge/-Node.JS-4B0082?style=for-the-badge&logo=node.js&labelColor=4B0082&textColor=4B0082)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-4B0082?style=for-the-badge&logo=react&labelColor=4B0082)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-4B0082?style=for-the-badge&logo=javascript&labelColor=4B0082&textColor=4B0082)&nbsp;
-![Electronics](https://img.shields.io/badge/-Electronics-4B0082?style=for-the-badge&logo=electronic&labelColor=4B0082)&nbsp;
-![PIC](https://img.shields.io/badge/-PIC-4B0082?style=for-the-badge&logo=pic&labelColor=4B0082)&nbsp;
+### Outras Habilidades:
+![Figma](https://img.shields.io/badge/-Figma-23497f?style=for-the-badge&logo=figma&labelColor=23497f)&nbsp;
+![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-23497f?style=for-the-badge&logo=microsoft-office&labelColor=23497f)&nbsp;
+![Progress](https://img.shields.io/badge/-Progress-23497f?style=for-the-badge&labelColor=23497f)&nbsp;
+![Astah](https://img.shields.io/badge/-Astah-23497f?style=for-the-badge&labelColor=23497f)&nbsp;
+![Project](https://img.shields.io/badge/-Project-23497f?style=for-the-badge&labelColor=23497f)&nbsp;
+![Canva](https://img.shields.io/badge/-Canva-23497f?style=for-the-badge&labelColor=23497f)&nbsp;
+![Tap](https://img.shields.io/badge/-Tap-23497f?style=for-the-badge&labelColor=23497f)&nbsp;
+![MQTT Server](https://img.shields.io/badge/-MQTT%20Server-23497f?style=for-the-badge&labelColor=23497f)&nbsp;
+
+### Estudando no momento:
+![Node.JS](https://img.shields.io/badge/-Node.JS-23497f?style=for-the-badge&logo=node.js&labelColor=23497f&textColor=23497f)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-23497f?style=for-the-badge&logo=react&labelColor=23497f)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-23497f?style=for-the-badge&logo=javascript&labelColor=23497f&textColor=23497f)&nbsp;
+![Electronics](https://img.shields.io/badge/-Electronics-23497f?style=for-the-badge&logo=electronic&labelColor=23497f)&nbsp;
+![PIC](https://img.shields.io/badge/-PIC-23497f?style=for-the-badge&logo=pic&labelColor=23497f)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/JoaoPedroBebber/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=23497f&height=120&section=header"/>
+
