@@ -3,11 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=23497f&size=35&center=true&vCenter=true&width=1000&lines=Olá,Bem+Vindo+ao+Meu+Perfil;Me+Chamo+João+Pedro+Bebber;Estudante+de+Engenharia+de+Software+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroBebber&show_icons=true&count_private=true&hide_border=true&title_color=23497f&icon_color=23497f&text_color=c9d1d9&bg_color=9370DB" alt="Luiz Felipe's GitHub stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroBebber&layout=compact&hide_border=true&title_color=23497f&text_color=23497f&bg_color=9370DB" alt="João's Top Languages" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroBebber&show_icons=true&count_private=true&hide_border=true&title_color=23497f&icon_color=23497f&text_color=c9d1d9&bg_color=0d1117" alt="João Pedro Bebber GitHub stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroBebber&layout=compact&hide_border=true&title_color=23497f&text_color=23497f&bg_color=0d1117" alt="João's Top Languages" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JoaoPedroBebber&bg_color=23497f&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JoaoPedroBebber&bg_color=0d1117&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
   <a href="https://www.instagram.com/joaopedrobebber/?igsh=aDBnbDN6anJnZzRw" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%2323497f?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -17,7 +17,6 @@
 ### Habilidades principais:
 ![Progress 4GL](https://img.shields.io/badge/-Progress%204GL-23497f?style=for-the-badge&labelColor=23497f&logoColor=white)
 ![C](https://img.shields.io/badge/-C-23497f?style=for-the-badge&logo=c&labelColor=23497f&textColor=23497f)&nbsp;
-
 
 ### Ferramentas:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-23497f?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=23497f)&nbsp;
@@ -51,4 +50,3 @@
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=23497f&height=120&section=header"/>
-
