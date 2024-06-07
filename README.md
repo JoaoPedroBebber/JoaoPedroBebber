@@ -4,7 +4,6 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroBebber&show_icons=true&count_private=true&hide_border=true&title_color=23497f&icon_color=23497f&text_color=c9d1d9&bg_color=0d1117" alt="João Pedro Bebber GitHub stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroBebber&layout=compact&hide_border=true&title_color=23497f&text_color=23497f&bg_color=0d1117" alt="João's Top Languages" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JoaoPedroBebber&bg_color=0d1117&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -30,19 +29,15 @@
 ### Outras Habilidades:
 ![Figma](https://img.shields.io/badge/-Figma-23497f?style=for-the-badge&logo=figma&labelColor=23497f)&nbsp;
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-23497f?style=for-the-badge&logo=microsoft-office&labelColor=23497f)&nbsp;
-![Progress](https://img.shields.io/badge/-Progress-23497f?style=for-the-badge&labelColor=23497f)&nbsp;
 ![Astah](https://img.shields.io/badge/-Astah-23497f?style=for-the-badge&labelColor=23497f)&nbsp;
 ![Project](https://img.shields.io/badge/-Project-23497f?style=for-the-badge&labelColor=23497f)&nbsp;
 ![Canva](https://img.shields.io/badge/-Canva-23497f?style=for-the-badge&labelColor=23497f)&nbsp;
-![Tap](https://img.shields.io/badge/-Tap-23497f?style=for-the-badge&labelColor=23497f)&nbsp;
-![MQTT Server](https://img.shields.io/badge/-MQTT%20Server-23497f?style=for-the-badge&labelColor=23497f)&nbsp;
+![Hardware](https://img.shields.io/badge/-Hardware-23497f?style=for-the-badge&logo=hardware&labelColor=23497f)&nbsp;
 
 ### Estudando no momento:
-![Node.JS](https://img.shields.io/badge/-Node.JS-23497f?style=for-the-badge&logo=node.js&labelColor=23497f&textColor=23497f)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-23497f?style=for-the-badge&logo=react&labelColor=23497f)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-23497f?style=for-the-badge&logo=html5&labelColor=23497f&textColor=23497f)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-23497f?style=for-the-badge&logo=css3&labelColor=23497f&textColor=23497f)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-23497f?style=for-the-badge&logo=javascript&labelColor=23497f&textColor=23497f)&nbsp;
-![Electronics](https://img.shields.io/badge/-Electronics-23497f?style=for-the-badge&logo=electronic&labelColor=23497f)&nbsp;
-![PIC](https://img.shields.io/badge/-PIC-23497f?style=for-the-badge&logo=pic&labelColor=23497f)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
