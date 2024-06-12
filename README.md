@@ -18,8 +18,7 @@
 ![C](https://img.shields.io/badge/-C-23497f?style=for-the-badge&logo=c&labelColor=23497f&textColor=23497f)&nbsp;
 
 ### Ferramentas:
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-23497f?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=23497f)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-23497f?style=for-the-badge&logo=visual-studio-code&logoColor=23497f&labelColor=23497f)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-23497f?style=for-the-badge&logo=visual-studio&logoColor=23497f&labelColor=FFFFFF)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-23497f?style=for-the-badge&logo=git&labelColor=23497f)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-23497f?style=for-the-badge&logo=github&labelColor=23497f)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-23497f?style=for-the-badge&logo=windows&labelColor=23497f)&nbsp;
@@ -38,6 +37,14 @@
 ![HTML](https://img.shields.io/badge/-HTML-23497f?style=for-the-badge&logo=html5&labelColor=23497f&textColor=23497f)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-23497f?style=for-the-badge&logo=css3&labelColor=23497f&textColor=23497f)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-23497f?style=for-the-badge&logo=javascript&labelColor=23497f&textColor=23497f)&nbsp;
+
+### Certificações:
+
+<div>
+  <a href="https://drive.google.com/file/d/1vSj3HfHFIYOqQxn6pufPl4L_NLM8O6Jz/view?usp=sharing" target="_blank">
+    <button>Fundação Bradesco</button>
+  </a>
+</div>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
