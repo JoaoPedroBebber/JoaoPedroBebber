@@ -22,12 +22,13 @@
 ![Git](https://img.shields.io/badge/-Git-23497f?style=for-the-badge&logo=git&labelColor=23497f)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-23497f?style=for-the-badge&logo=github&labelColor=23497f)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-23497f?style=for-the-badge&logo=windows&labelColor=23497f)&nbsp;
-![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-23497f?style=for-the-badge&logo=microsoft-office&labelColor=23497f)&nbsp;
-![OneDrive](https://img.shields.io/badge/-OneDrive-23497f?style=for-the-badge&logo=onedrive&labelColor=23497f)&nbsp;
+![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-23497f?style=for-the-badge&logo=microsoft-office&labelColor=23497f&logoColor=FFFFFF)&nbsp;
+![OneDrive](https://img.shields.io/badge/-OneDrive-23497f?style=for-the-badge&logo=onedrive&labelColor=23497f&logoColor=FFFFFF)&nbsp;
+![SharePoint](https://img.shields.io/badge/-SharePoint-23497f?style=for-the-badge&logo=microsoft-sharepoint&labelColor=23497f&logoColor=FFFFFF)&nbsp;
 
 ### Outras Habilidades:
 ![Figma](https://img.shields.io/badge/-Figma-23497f?style=for-the-badge&logo=figma&labelColor=23497f)&nbsp;
-![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-23497f?style=for-the-badge&logo=microsoft-office&labelColor=23497f)&nbsp;
+![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-23497f?style=for-the-badge&logo=microsoft-office&labelColor=23497f&logoColor=FFFFFF)&nbsp;
 ![Astah](https://img.shields.io/badge/-Astah-23497f?style=for-the-badge&labelColor=23497f)&nbsp;
 ![Project](https://img.shields.io/badge/-Project-23497f?style=for-the-badge&labelColor=23497f)&nbsp;
 ![Canva](https://img.shields.io/badge/-Canva-23497f?style=for-the-badge&labelColor=23497f)&nbsp;
@@ -52,3 +53,4 @@
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=23497f&height=120&section=header"/>
+
