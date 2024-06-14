@@ -38,6 +38,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-23497f?style=for-the-badge&logo=html5&labelColor=23497f&textColor=23497f)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-23497f?style=for-the-badge&logo=css3&labelColor=23497f&textColor=23497f)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-23497f?style=for-the-badge&logo=javascript&labelColor=23497f&textColor=23497f)&nbsp;
+![Python](https://img.shields.io/badge/-Python-23497f?style=for-the-badge&logo=python&labelColor=23497f&textColor=23497f)&nbsp;
 
 ### Certificações:
 
@@ -53,4 +54,3 @@
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=23497f&height=120&section=header"/>
-
